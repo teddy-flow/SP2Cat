@@ -9,4 +9,4 @@ An adapted version of the colabcat from someshkar, made spesiclay for the Studen
 * From there follows the steps in SP2Cat notebook 
 
 ## Similar projects
-[someshkar/colabcat](https://github.com/someshkar/colabcat)
+[someshkar/colabcat](https://github.com/someshkar/colabcat): Run Hashcat on Google Colab with session restore capabilities with Google Drive.
